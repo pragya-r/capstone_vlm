@@ -3,7 +3,7 @@
 ## Repository structure
 
 ```text
-openarena-vlm-capstone/
+captone_vlm/
 ├── controlled/
 │   ├── final_experiment.py
 │   ├── llm_decision.py
