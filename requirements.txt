@@ -1,0 +1,6 @@
+mss
+numpy
+opencv-python
+pillow
+pynput
+requests
