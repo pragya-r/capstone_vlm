@@ -51,7 +51,7 @@ If temporal information is supplied, use it only as supporting context.
 Choose exactly one action:
 ENGAGE, RETREAT, SEARCH, TRACK, SWITCH_WEAPON, MOVE.
 
-Decision policy — apply these rules in order:
+Decision module — apply these rules in order:
 
 1. If ammunition is 0, choose SWITCH_WEAPON.
 2. Otherwise, if an enemy is currently visible and health is below 25,
