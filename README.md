@@ -1,7 +1,5 @@
 # OpenArena VLM Capstone
 
-Code and retained result logs for a UTS Engineering Capstone investigating temporal-context representation in language-model decision-making and a separate local vision-language-model OpenArena control loop.
-
 ## Repository structure
 
 ```text
