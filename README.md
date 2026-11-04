@@ -1,5 +1,3 @@
-# OpenArena VLM Capstone
-
 ## Repository structure
 
 ```text
